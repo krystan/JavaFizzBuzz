@@ -8,7 +8,7 @@
     <artifactId>FizzBuzz</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>FizzBuzz</name>
+    <name>com.forward.thinking.it.fizzbuzz.FizzBuzz</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -41,7 +41,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.forward.thinking.it.FizzBuzz</mainClass>
+                            <mainClass>com.forward.thinking.it.fizzbuzz.FizzBuzz</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
